@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "url": "https://raw.githubusercontent.com/epieczko/CoDE/master/bin/noop.cmd?token=AY9Plq9KTndEnrJt86stLdP3OvZO-hqFks5bt6tDwA%3D%3D",
+  "depends": [
+    "CoDE-scm",
+    "CoDE-language",
+    "CoDE-terminal",
+    "CoDE-terminal",
+    "CoDE-command",
+    "CoDE-compression",
+    "CoDE-build",
+    "CoDE-ide",
+    "CoDE-devtools",
+    "CoDE-containers",
+    "CoDE-storage"
+  ]
+}

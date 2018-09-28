@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "url": "https://raw.githubusercontent.com/epieczko/CoDE/master/bin/noop.cmd?token=AY9Plq9KTndEnrJt86stLdP3OvZO-hqFks5bt6tDwA%3D%3D",
+  "depends": [
+    "git",
+    "git-with-openssh",
+    "git-lfs",
+    "git-sizer",
+    "git-town",
+    "git-up",
+    "gitignore",
+    "gitversion"
+  ]
+}

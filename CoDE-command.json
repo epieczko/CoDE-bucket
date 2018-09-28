@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "url": "https://raw.githubusercontent.com/epieczko/CoDE/master/bin/noop.cmd?token=AY9Plq9KTndEnrJt86stLdP3OvZO-hqFks5bt6tDwA%3D%3D",
+  "depends": [
+    "curl",
+    "grep",
+    "sed",
+    "less",
+    "dos2unix",
+    "nmap",
+    "which",
+    "wget",
+    "bat",
+    "dd"
+  ]
+}
