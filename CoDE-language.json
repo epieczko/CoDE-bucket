@@ -15,7 +15,6 @@
     "go",
     "nodejs",
     "rust",
-    "rustup",
     "dotnet-sdk"
   ]
 }
