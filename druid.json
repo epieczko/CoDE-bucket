@@ -2,12 +2,12 @@
 	"homepage": "https://druid.apache.org/",
 	"version": "0.21.0",
 	"license": "https://creativecommons.org/licenses/by-sa/4.0/",
-	"uri": "https://mirrors.sonic.net/apache/druid/0.21.0/apache-druid-0.21.0-bin.tar.gz", 
-	"extract_dir": "druid",
-	"bin": [
-		[
-			"run_druid", 
-			"run_druid"
-		]
-	]
+	"architecture": {
+		"64bit": {
+			"url": "https://mirrors.sonic.net/apache/druid/0.21.0/apache-druid-0.21.0-bin.tar.gz",
+			"extract_dir": "druid",
+			"hash": "sha512:4c1b9ff4c8d89e1c78f0bc9e414ea4e855a637925959b5e4e4edd79bdbd0311f0b09cc332c6f48f982f10d9d46d2658cee802bac4e60116598d1aaf3deebf9b1"
+		}
+	},
+	"env_add_path": "bin"
 }
