@@ -1,0 +1,13 @@
+{
+	"homepage": "https://druid.apache.org/",
+	"version": "0.21.0",
+	"license": "https://creativecommons.org/licenses/by-sa/4.0/",
+	"uri": "https://mirrors.sonic.net/apache/druid/0.21.0/apache-druid-0.21.0-bin.tar.gz", 
+	"extract_dir": "druid",
+	"bin": [
+		[
+			"run_druid", 
+			"run_druid"
+		]
+	]
+}
